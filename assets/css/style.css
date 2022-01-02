@@ -5,10 +5,6 @@
 }
 
 body {
-    font-family: Helvetica, Arial, sans-serif;
-    background-color: white;
-}
-body {
     /* I'm a CSS comment! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
@@ -23,7 +19,7 @@ header {
 header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: #fce138;
+    color: #fce138; 
     margin: 0;
     display: inline;
 }
@@ -150,11 +146,6 @@ section {
     text-align: center;
     background: #fce138;
 }
-
-.steps h2 {
-
-}
-
 .primary-border {
     border-color: #fce138;
 }
@@ -264,7 +255,7 @@ section {
     font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p, .contact-info address {   
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
