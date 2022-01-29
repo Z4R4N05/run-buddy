@@ -267,3 +267,13 @@ section {
 }
 
 /* REACH OUT STYLES END */
+
+/* UTILITIES */
+/* UTILITIES */
+.text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
