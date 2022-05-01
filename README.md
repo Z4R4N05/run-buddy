@@ -4,7 +4,7 @@
 A website that offers fitness training services.
 
 ## Built With
-* https://img.shields.io/badge/-HTML
+* HTML
 * CSS
 
 
